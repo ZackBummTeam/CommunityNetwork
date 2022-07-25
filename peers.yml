@@ -2,8 +2,21 @@ AS1000:
   description: Asrael
   vpn:
     public:
-      v4: 127.0.0.1
-      v6: ::1
+      v4: 159.69.148.48
+      v6: 
+      key: -----BEGIN RSA PUBLIC KEY-----
+MIICCgKCAgEAzfdW5eyAnGikuK45Uu1SWJcOLsr1CtBOhAdWP31MLtzxHHq6YKlk
+qAPRtcIoKIE6fLURM/qsvg/72BgordV1ro/cCsHy9dIj8EFAF/0xU4c91QyNGdbR
+TLRepDuI+E6mIC6L7sUYJ+3IUNId5YaLDgDg0qwwUnv3vg7FmpWKMzBFdieIzNvQ
+mVueFYATv9e7Bo/+QqBhXfP/Zie39HthKVZxNfIuW6Ai+eDupcnQ2pzUIOdk5RlG
+Kfv8BQzDejxpr4hoWb34sMRa2VfiHUf+2hRQjl55X/hkXLshfJjMoKEyY1i4x5Vr
+l6ZKtTuwdI6Zdn3+OiHbzH+3d/dl5OSwV/lBZ+dVg7jAQKRnW9JL65NzahQHAmMJ
+5Ae48nYpCoifuLIA01id5EdG7PRH1WDPw8HGaV5K2N8XH+srZWasjO3GCbwQkHyZ
+DWVVDUlx+PQEGUi0MYgyHY2cDg5CQ0Whv4A0iEV1kDANEwaMdU5cv6bq8gydxQ0V
+ndxM+FSyDP8eLBIX6hIhJNxmlPJfJilXwBbPU6bM/Xi+ZhuCc0fjRSlktip8cZgJ
+Nl6r/0zG7ZmMoC33pDZPpuZwGniRT1JcwWLHlAwbfc/VuznnNUYAaPS5b7G4R0wX
+uHluLkG7gFWGdertb62Id79z47sKSvPu1RKhVs8oIzTO8vC86At1nQkCAwEAAQ==
+-----END RSA PUBLIC KEY-----
     transfer:
       v4: 10.200.0.1/24
       v6: fec0::1eed:beef/64
