@@ -12,6 +12,7 @@ AS42069:
   description: delta_vex
   vpn:
     public:
+      v4: 62.176.230.18
       v6: 2a01:584:4:0:182d:ccff:febd:a5fd
     transfer:
       v4: 10.200.0.42/24
