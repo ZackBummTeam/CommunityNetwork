@@ -15,4 +15,5 @@
 - AS by YAML file
 - Looking Glass for Testing
 - nameserver for the TLD .ccvpn (register your own nameserver, or transfer your zone)
+- maybee there will be a shared vm hosting service
 
