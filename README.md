@@ -1,4 +1,4 @@
-# ZackBumNetwork!
+# ZackBummNetwork!
 
 ## Target
 - Building a Playground for BGP and other REAL Internet shit.
