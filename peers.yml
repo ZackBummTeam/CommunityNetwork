@@ -19,7 +19,7 @@ uHluLkG7gFWGdertb62Id79z47sKSvPu1RKhVs8oIzTO8vC86At1nQkCAwEAAQ==
 -----END RSA PUBLIC KEY-----
     transfer:
       v4: 10.200.0.1/24
-      v6: fec0::1eed:beef/64
+      v6: fc00::1eed:beef/64
 
 AS42069:
   description: delta_vex
@@ -37,4 +37,4 @@ bo+mKArVpT/MBiy+zI6k8VsgtNmRI+jpgQIDAQAB
 -----END RSA PUBLIC KEY-----
     transfer:
       v4: 10.200.0.42/24
-      v6: fec0::dc42/64
+      v6: fc00::dc42/64
