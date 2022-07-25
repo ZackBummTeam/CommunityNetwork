@@ -1,0 +1,10 @@
+AS1000:
+    description: Asrael
+    bgp_ipv4: 172.30.0.1
+    bgp_ipv6: xxx
+    fastd: 
+      key: 123456789765432
+      remote_ipv4: 1.2.3.4
+      remote_ipv6: 0::0
+      port: 1234
+     
