@@ -1,4 +1,5 @@
-AS1000:
+peers:
+- as: AS1000
   description: Asrael
   vpn:
     public:
@@ -21,7 +22,7 @@ AS1000:
     transfer:
       v4: 10.200.0.1/24
       v6: fc00::1eed:beef/64
-AS42069:
+- as: AS42069
   description: delta_vex
   vpn:
     public:
@@ -39,14 +40,14 @@ AS42069:
     transfer:
       v4: 10.200.0.42/24
       v6: fc00::dc42/64
-AS42070:
+- as: AS42070
   description: delta_home
   vpn:
     transfer:
       v4: 10.200.0.43/24
       v6: fc00::dc43/64
 
-AS42071:
+- as: AS42071
   description: delta_zbn_fsn_01
   vpn:
     transfer:
@@ -65,7 +66,7 @@ AS42071:
         1Ko9pgyEO9r5L7U15xa4yqXmU/JPHuSlewIDAQAB
         -----END RSA PUBLIC KEY-----
 
-AS42080:
+- as: AS42080
   description: alpha_bi
   notes: It's not a good idea to add this peer, as these are dynamic ip's and are maybe old by the time you are viewing this file
   vpn:
@@ -84,7 +85,7 @@ AS42080:
     transfer:
       v4: 10.200.0.60/24
       v6: fc00::ae00/64
-AS42081:
+- as: AS42081
   description: alpha_sv01
   vpn:
     public:
