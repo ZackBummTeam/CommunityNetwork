@@ -38,3 +38,24 @@ bo+mKArVpT/MBiy+zI6k8VsgtNmRI+jpgQIDAQAB
     transfer:
       v4: 10.200.0.42/24
       v6: fc00::dc42/64
+
+AS42070:
+  description: delta_home
+  vpn:
+    transfer:
+      v4: 10.200.0.43/24
+      v6: fc00::dc43/64
+
+AS42080:
+  description: alpha_bi
+  vpn:
+    transfer:
+      v4: 10.200.0.60/24
+      v6: fc00::ae00/64
+
+AS42081:
+  description: alpha_sv01
+  vpn:
+    transfer:
+      v4: 10.200.0.61/24
+      v6: fc00::ae00/64
