@@ -82,4 +82,4 @@ MrxX4JlRlTTJxq/Z4U08HMX/4PgnMGjAAwIDAQAB
 -----END RSA PUBLIC KEY-----
     transfer:
       v4: 10.200.0.61/24
-      v6: fc00::ae00/64
+      v6: fc00::ae01/64
