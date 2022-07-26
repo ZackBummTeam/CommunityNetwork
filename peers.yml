@@ -69,6 +69,17 @@ dHEa5oES5+NYZFIXsyob2B0Qh9OSt6fSGwIDAQAB
 AS42081:
   description: alpha_sv01
   vpn:
+    public:
+      v4: 176.9.156.180
+      v6: 2a01:4f8:160:42a7::1
+      key: -----BEGIN RSA PUBLIC KEY-----
+MIIBCgKCAQEAyvCedpwtb04TeXsRJGjbzFZv90vIJM97Ox8Fy+3uNHqMFL3OZHH6
+fzFtW3Sc0KzhzLeAWBBDl7dMygLZrKuYku9oFDcQuHK7gnq2EHj/E9E2cXWdmP0A
+50fU2DWBvvA3Y6K9Yn+5creRHPUJUkpr0jwzwk4P0/IDMWuYg8SsSIGwxCbPYcQ3
+2WxQj+67dY6KEoF4mozSorXHjt1RrC9iXkgne4FvKPoPnaVZAfHyQbqypKajTkiG
+bvWIm9V2G3K6qdqOeUQDspxpD22hZRPRqPQ5Yu4qOuihkDAe+8y3iL963nIf66mz
+MrxX4JlRlTTJxq/Z4U08HMX/4PgnMGjAAwIDAQAB
+-----END RSA PUBLIC KEY-----
     transfer:
       v4: 10.200.0.61/24
       v6: fc00::ae00/64
