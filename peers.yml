@@ -48,8 +48,12 @@ AS42070:
 
 AS42080:
   description: alpha_bi
+  notes: It's not a good idea to add this peer, as these are dynamic ip's and are maybe old by the time you are viewing this file
   vpn:
-    key: -----BEGIN RSA PUBLIC KEY-----
+    public:
+      v4: 178.202.211.94
+      v6: 2a02:908:4b11:d3c:20b:abff:fe78:2b51
+      key: -----BEGIN RSA PUBLIC KEY-----
 MIIBCgKCAQEA5gmUwXN8YzGde06L65GK8p8ZDFmWopISBA04DGIF2oEFJCH19+8T
 hO+nvwjw1aCTcKwDR4dkNQRAeDKqMVNAsOB39Pt9BsYHgcR2nqSZEnRlqxkcp/6t
 O/+3ID/wBuXIjILq5Hun5mLThRNFIkv1nZION51c0E3aqbZQrMrYBcp8NW6f7/jB
@@ -60,6 +64,7 @@ dHEa5oES5+NYZFIXsyob2B0Qh9OSt6fSGwIDAQAB
     transfer:
       v4: 10.200.0.60/24
       v6: fc00::ae00/64
+
 
 AS42081:
   description: alpha_sv01
