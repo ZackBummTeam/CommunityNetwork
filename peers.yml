@@ -4,19 +4,20 @@ AS1000:
     public:
       v4: 159.69.148.48
       v6: 
-      key: -----BEGIN RSA PUBLIC KEY-----
-MIICCgKCAgEAzfdW5eyAnGikuK45Uu1SWJcOLsr1CtBOhAdWP31MLtzxHHq6YKlk
-qAPRtcIoKIE6fLURM/qsvg/72BgordV1ro/cCsHy9dIj8EFAF/0xU4c91QyNGdbR
-TLRepDuI+E6mIC6L7sUYJ+3IUNId5YaLDgDg0qwwUnv3vg7FmpWKMzBFdieIzNvQ
-mVueFYATv9e7Bo/+QqBhXfP/Zie39HthKVZxNfIuW6Ai+eDupcnQ2pzUIOdk5RlG
-Kfv8BQzDejxpr4hoWb34sMRa2VfiHUf+2hRQjl55X/hkXLshfJjMoKEyY1i4x5Vr
-l6ZKtTuwdI6Zdn3+OiHbzH+3d/dl5OSwV/lBZ+dVg7jAQKRnW9JL65NzahQHAmMJ
-5Ae48nYpCoifuLIA01id5EdG7PRH1WDPw8HGaV5K2N8XH+srZWasjO3GCbwQkHyZ
-DWVVDUlx+PQEGUi0MYgyHY2cDg5CQ0Whv4A0iEV1kDANEwaMdU5cv6bq8gydxQ0V
-ndxM+FSyDP8eLBIX6hIhJNxmlPJfJilXwBbPU6bM/Xi+ZhuCc0fjRSlktip8cZgJ
-Nl6r/0zG7ZmMoC33pDZPpuZwGniRT1JcwWLHlAwbfc/VuznnNUYAaPS5b7G4R0wX
-uHluLkG7gFWGdertb62Id79z47sKSvPu1RKhVs8oIzTO8vC86At1nQkCAwEAAQ==
------END RSA PUBLIC KEY-----
+      key: >
+        -----BEGIN RSA PUBLIC KEY-----
+        MIICCgKCAgEAzfdW5eyAnGikuK45Uu1SWJcOLsr1CtBOhAdWP31MLtzxHHq6YKlk
+        qAPRtcIoKIE6fLURM/qsvg/72BgordV1ro/cCsHy9dIj8EFAF/0xU4c91QyNGdbR
+        TLRepDuI+E6mIC6L7sUYJ+3IUNId5YaLDgDg0qwwUnv3vg7FmpWKMzBFdieIzNvQ
+        mVueFYATv9e7Bo/+QqBhXfP/Zie39HthKVZxNfIuW6Ai+eDupcnQ2pzUIOdk5RlG
+        Kfv8BQzDejxpr4hoWb34sMRa2VfiHUf+2hRQjl55X/hkXLshfJjMoKEyY1i4x5Vr
+        l6ZKtTuwdI6Zdn3+OiHbzH+3d/dl5OSwV/lBZ+dVg7jAQKRnW9JL65NzahQHAmMJ
+        5Ae48nYpCoifuLIA01id5EdG7PRH1WDPw8HGaV5K2N8XH+srZWasjO3GCbwQkHyZ
+        DWVVDUlx+PQEGUi0MYgyHY2cDg5CQ0Whv4A0iEV1kDANEwaMdU5cv6bq8gydxQ0V
+        ndxM+FSyDP8eLBIX6hIhJNxmlPJfJilXwBbPU6bM/Xi+ZhuCc0fjRSlktip8cZgJ
+        Nl6r/0zG7ZmMoC33pDZPpuZwGniRT1JcwWLHlAwbfc/VuznnNUYAaPS5b7G4R0wX
+        uHluLkG7gFWGdertb62Id79z47sKSvPu1RKhVs8oIzTO8vC86At1nQkCAwEAAQ==
+        -----END RSA PUBLIC KEY-----
     transfer:
       v4: 10.200.0.1/24
       v6: fc00::1eed:beef/64
@@ -27,14 +28,15 @@ AS42069:
     public:
       v4: 62.176.230.18
       v6: 2a01:584:4:0:182d:ccff:febd:a5fd
-      key: -----BEGIN RSA PUBLIC KEY-----
-MIIBCgKCAQEAxLP1YaLlLQTgKTmwh34XBcBVzfndXQQmTerP/jyI0789GWJdbCzl
-NduKmyjMkiYZIlhNCxT4ARW7nasaFvZolgT8uYXlX+RGrqIyt7hIwklLKasWYPMg
-RVUwEsTmj1HEXo2fFHIN55JWT0HMWN6I2SZlZsKtmOeRATnafN6+DdfFX4hd16sd
-PckmfIwwRDzbTZfLsDGtHWj3OWARv+sWpr3rfPjBk04ZYDBU7MWryUJZ2SBJcNql
-OLKbMA+MleAwQN3rTzL2naMBWxE6Sil4j2XgoHZ0WNc1UaQOYqoPNnYQqgnay+k2
-tMboNB9GbhlYkqcRyKNDdARadJ0wnuiUCwIDAQAB
------END RSA PUBLIC KEY-----
+      key: >
+        -----BEGIN RSA PUBLIC KEY-----
+        MIIBCgKCAQEAxLP1YaLlLQTgKTmwh34XBcBVzfndXQQmTerP/jyI0789GWJdbCzl
+        NduKmyjMkiYZIlhNCxT4ARW7nasaFvZolgT8uYXlX+RGrqIyt7hIwklLKasWYPMg
+        RVUwEsTmj1HEXo2fFHIN55JWT0HMWN6I2SZlZsKtmOeRATnafN6+DdfFX4hd16sd
+        PckmfIwwRDzbTZfLsDGtHWj3OWARv+sWpr3rfPjBk04ZYDBU7MWryUJZ2SBJcNql
+        OLKbMA+MleAwQN3rTzL2naMBWxE6Sil4j2XgoHZ0WNc1UaQOYqoPNnYQqgnay+k2
+        tMboNB9GbhlYkqcRyKNDdARadJ0wnuiUCwIDAQAB
+        -----END RSA PUBLIC KEY-----
     transfer:
       v4: 10.200.0.42/24
       v6: fc00::dc42/64
@@ -55,14 +57,15 @@ AS42071:
     vpn:
       v4: 0.0.0.0/32
       v6: 2a01:4f8:c012:d8ab::1
-      key: -----BEGIN RSA PUBLIC KEY-----
-MIIBCgKCAQEAuOcH10mfsDZxfN11Fhjg2e7SJT5aOjhI2wK3mdoswUHyB5wlyxmC
-dIC7WPYHsgVPRpEFVt9SjSz3dByPWof13/TRl78ov17ioPk3x/xV+3LTBZH/MWeZ
-D/nMqWSvn7O21I9B09Lcp7txtD5U7QX+zd3geFkBnXDY4iP21Z26j3UlMvxLniJO
-9wsGGRHdAwWkwsw6LxGuoeaI0sFpxGQrkK++UrYeL4h4vVPZdTUo05F+DUmxmb3v
-DLTHzSLjjABYYk8ykGItL8X90fRIUP/ESwmHNxMtuRwAhBvZRswUcgq9tWVAZU39
-1Ko9pgyEO9r5L7U15xa4yqXmU/JPHuSlewIDAQAB
------END RSA PUBLIC KEY-----
+      key: >
+        -----BEGIN RSA PUBLIC KEY-----
+        MIIBCgKCAQEAuOcH10mfsDZxfN11Fhjg2e7SJT5aOjhI2wK3mdoswUHyB5wlyxmC
+        dIC7WPYHsgVPRpEFVt9SjSz3dByPWof13/TRl78ov17ioPk3x/xV+3LTBZH/MWeZ
+        D/nMqWSvn7O21I9B09Lcp7txtD5U7QX+zd3geFkBnXDY4iP21Z26j3UlMvxLniJO
+        9wsGGRHdAwWkwsw6LxGuoeaI0sFpxGQrkK++UrYeL4h4vVPZdTUo05F+DUmxmb3v
+        DLTHzSLjjABYYk8ykGItL8X90fRIUP/ESwmHNxMtuRwAhBvZRswUcgq9tWVAZU39
+        1Ko9pgyEO9r5L7U15xa4yqXmU/JPHuSlewIDAQAB
+        -----END RSA PUBLIC KEY-----
 
 AS42080:
   description: alpha_bi
@@ -71,18 +74,18 @@ AS42080:
     public:
       v4: 178.202.211.94
       v6: 2a02:908:4b11:d3c:20b:abff:fe78:2b51
-      key: -----BEGIN RSA PUBLIC KEY-----
-MIIBCgKCAQEA5gmUwXN8YzGde06L65GK8p8ZDFmWopISBA04DGIF2oEFJCH19+8T
-hO+nvwjw1aCTcKwDR4dkNQRAeDKqMVNAsOB39Pt9BsYHgcR2nqSZEnRlqxkcp/6t
-O/+3ID/wBuXIjILq5Hun5mLThRNFIkv1nZION51c0E3aqbZQrMrYBcp8NW6f7/jB
-3D1y+D/zP+SHen7wJTxMYGIJgGvyXcFHmEO89TwleP/P1oAJlWBVF87cF2BOWViM
-rk4+9Ce9SqdtDB2uCLzpx6JxJ6GFbEVT/6wvZ2DGIdQKqPyrwebd6ScV9PzAjGSK
-dHEa5oES5+NYZFIXsyob2B0Qh9OSt6fSGwIDAQAB
------END RSA PUBLIC KEY-----
+      key: > 
+        -----BEGIN RSA PUBLIC KEY-----
+        MIIBCgKCAQEA5gmUwXN8YzGde06L65GK8p8ZDFmWopISBA04DGIF2oEFJCH19+8T
+        hO+nvwjw1aCTcKwDR4dkNQRAeDKqMVNAsOB39Pt9BsYHgcR2nqSZEnRlqxkcp/6t
+        O/+3ID/wBuXIjILq5Hun5mLThRNFIkv1nZION51c0E3aqbZQrMrYBcp8NW6f7/jB
+        3D1y+D/zP+SHen7wJTxMYGIJgGvyXcFHmEO89TwleP/P1oAJlWBVF87cF2BOWViM
+        rk4+9Ce9SqdtDB2uCLzpx6JxJ6GFbEVT/6wvZ2DGIdQKqPyrwebd6ScV9PzAjGSK
+        dHEa5oES5+NYZFIXsyob2B0Qh9OSt6fSGwIDAQAB
+        -----END RSA PUBLIC KEY-----
     transfer:
       v4: 10.200.0.60/24
       v6: fc00::ae00/64
-
 
 AS42081:
   description: alpha_sv01
@@ -90,14 +93,15 @@ AS42081:
     public:
       v4: 176.9.156.180
       v6: 2a01:4f8:160:42a7::1
-      key: -----BEGIN RSA PUBLIC KEY-----
-MIIBCgKCAQEAyvCedpwtb04TeXsRJGjbzFZv90vIJM97Ox8Fy+3uNHqMFL3OZHH6
-fzFtW3Sc0KzhzLeAWBBDl7dMygLZrKuYku9oFDcQuHK7gnq2EHj/E9E2cXWdmP0A
-50fU2DWBvvA3Y6K9Yn+5creRHPUJUkpr0jwzwk4P0/IDMWuYg8SsSIGwxCbPYcQ3
-2WxQj+67dY6KEoF4mozSorXHjt1RrC9iXkgne4FvKPoPnaVZAfHyQbqypKajTkiG
-bvWIm9V2G3K6qdqOeUQDspxpD22hZRPRqPQ5Yu4qOuihkDAe+8y3iL963nIf66mz
-MrxX4JlRlTTJxq/Z4U08HMX/4PgnMGjAAwIDAQAB
------END RSA PUBLIC KEY-----
+      key: >
+        -----BEGIN RSA PUBLIC KEY-----
+        MIIBCgKCAQEAyvCedpwtb04TeXsRJGjbzFZv90vIJM97Ox8Fy+3uNHqMFL3OZHH6
+        fzFtW3Sc0KzhzLeAWBBDl7dMygLZrKuYku9oFDcQuHK7gnq2EHj/E9E2cXWdmP0A
+        50fU2DWBvvA3Y6K9Yn+5creRHPUJUkpr0jwzwk4P0/IDMWuYg8SsSIGwxCbPYcQ3
+        2WxQj+67dY6KEoF4mozSorXHjt1RrC9iXkgne4FvKPoPnaVZAfHyQbqypKajTkiG
+        bvWIm9V2G3K6qdqOeUQDspxpD22hZRPRqPQ5Yu4qOuihkDAe+8y3iL963nIf66mz
+        MrxX4JlRlTTJxq/Z4U08HMX/4PgnMGjAAwIDAQAB
+        -----END RSA PUBLIC KEY-----
     transfer:
       v4: 10.200.0.61/24
       v6: fc00::ae01/64
