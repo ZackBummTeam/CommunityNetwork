@@ -46,6 +46,24 @@ AS42070:
       v4: 10.200.0.43/24
       v6: fc00::dc43/64
 
+AS42071:
+  description: delta_zbn_fsn_01
+  vpn:
+    transfer:
+      v4: 10.200.0.44/24
+      v6: fc00::dc44/64
+    vpn:
+      v4: 0.0.0.0/32
+      v6: 2a01:4f8:c012:d8ab::1
+      key: -----BEGIN RSA PUBLIC KEY-----
+MIIBCgKCAQEAuOcH10mfsDZxfN11Fhjg2e7SJT5aOjhI2wK3mdoswUHyB5wlyxmC
+dIC7WPYHsgVPRpEFVt9SjSz3dByPWof13/TRl78ov17ioPk3x/xV+3LTBZH/MWeZ
+D/nMqWSvn7O21I9B09Lcp7txtD5U7QX+zd3geFkBnXDY4iP21Z26j3UlMvxLniJO
+9wsGGRHdAwWkwsw6LxGuoeaI0sFpxGQrkK++UrYeL4h4vVPZdTUo05F+DUmxmb3v
+DLTHzSLjjABYYk8ykGItL8X90fRIUP/ESwmHNxMtuRwAhBvZRswUcgq9tWVAZU39
+1Ko9pgyEO9r5L7U15xa4yqXmU/JPHuSlewIDAQAB
+-----END RSA PUBLIC KEY-----
+
 AS42080:
   description: alpha_bi
   notes: It's not a good idea to add this peer, as these are dynamic ip's and are maybe old by the time you are viewing this file
