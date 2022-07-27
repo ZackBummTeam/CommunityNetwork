@@ -9,6 +9,7 @@ ___
 | zbn          | AS0               | Core intrastructure |
 | delta        | AS42069 - AS42080 |                     |
 | h2com        | AS1000            |                     |
+| roll0r       | AS31337           |                     |
 | retro        | AS23420           |                     | 
 - AS0
     - Intrastructure routes
