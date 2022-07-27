@@ -6,7 +6,7 @@
       "vpn": {
         "public": {
           "v4": "bzn-asrael-1.h2com.eu",
-          "v6": null,
+          "v6": "bzn-asrael-1.h2com.eu",
           "port": 655,
           "key": "-----BEGIN RSA PUBLIC KEY-----\nMIICCgKCAgEApX02c+IEUHBgnivUEzbXnD5fLbFLT1TmMWIzjImj+U14HAteW1bB\n7x8td+dKEn+7BD4IcyxDj4c0qhCfQur16g3rHnWDe4/vfrS7HU8ROskrQdBUIJwf\nTEDRrjXGVs0C33sa6cV6jY/nPNQnGSW2tmbmt0JFhNuJSjApvxS9IRBvC7B/J8A7\nl/feR6Rr//oa7DPFkSJOOSY9HYCVVho8HrMYuTyvyc0m7V+vN7voltgSpKmvIUa0\nhqd6FvIPayp9RO5rPRVSr9oWfkPfKaUF5EkmwBeDnEYbByEGDl3ZAovzLbOcbofk\nLhVmse3eGEFZoq8cl+AHvFe04ffJxec3Q49ht/MOwlrMy4VUyvzjWfnAetBT+L8T\n340aOM6emviyRtkOqJtSptymD57kqn5wgAMTzFkCWKJRYf0w94GVTd9rq2LFAIhz\nkZlL9kiD4BnrQ/Pg5jz4kR2Lg70El3O5nPYfDRqkVlW9v1PuSzu9KfqZhu9pg8Xp\nKzMG8K3D3y0MBEIZ5wWkBbgNaDGD1L6XExCvWfuj2CwWXBmMt+QI5aVyW9IKNzDL\n/3usRB3LIjqrqq3vhKR/AB2ebiBjNTPcKjbZ9tFu2t/4nzxzssnuInIfClUXzZak\nJnRX7gTmZrlAJNsDp1U4UYGZdpQ7ZqVI9MB5LEFJxfCL2VRDOVUF/ysCAwEAAQ==\n-----END RSA PUBLIC KEY-----"
         },
