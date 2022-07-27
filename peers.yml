@@ -66,7 +66,7 @@ peers:
         1Ko9pgyEO9r5L7U15xa4yqXmU/JPHuSlewIDAQAB
         -----END RSA PUBLIC KEY-----
 
-- as: AS42080
+- as: AS42072
   description: alpha_bi
   notes: It's not a good idea to add this peer, as these are dynamic ip's and are maybe old by the time you are viewing this file
   vpn:
@@ -85,7 +85,7 @@ peers:
     transfer:
       v4: 10.200.0.60/24
       v6: fc00::ae00/64
-- as: AS42081
+- as: AS42073
   description: alpha_sv01
   vpn:
     public:
