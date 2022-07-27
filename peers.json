@@ -50,12 +50,12 @@
       "vpn": {
         "transfer": {
           "v4": "10.200.0.44/24",
-          "v6": "fc00::dc44/64",
-          "key": "-----BEGIN RSA PUBLIC KEY-----\nMIIBCgKCAQEAuOcH10mfsDZxfN11Fhjg2e7SJT5aOjhI2wK3mdoswUHyB5wlyxmC\ndIC7WPYHsgVPRpEFVt9SjSz3dByPWof13/TRl78ov17ioPk3x/xV+3LTBZH/MWeZ\nD/nMqWSvn7O21I9B09Lcp7txtD5U7QX+zd3geFkBnXDY4iP21Z26j3UlMvxLniJO\n9wsGGRHdAwWkwsw6LxGuoeaI0sFpxGQrkK++UrYeL4h4vVPZdTUo05F+DUmxmb3v\nDLTHzSLjjABYYk8ykGItL8X90fRIUP/ESwmHNxMtuRwAhBvZRswUcgq9tWVAZU39\n1Ko9pgyEO9r5L7U15xa4yqXmU/JPHuSlewIDAQAB\n-----END RSA PUBLIC KEY-----\n"
+          "v6": "fc00::dc44/64"
         },
-        "vpn": {
+        "public": {
           "v4": "0.0.0.0/32",
-          "v6": "2a01:4f8:c012:d8ab::1"
+          "v6": "2a01:4f8:c012:d8ab::1",
+          "key": "-----BEGIN RSA PUBLIC KEY-----\nMIIBCgKCAQEAuOcH10mfsDZxfN11Fhjg2e7SJT5aOjhI2wK3mdoswUHyB5wlyxmC\ndIC7WPYHsgVPRpEFVt9SjSz3dByPWof13/TRl78ov17ioPk3x/xV+3LTBZH/MWeZ\nD/nMqWSvn7O21I9B09Lcp7txtD5U7QX+zd3geFkBnXDY4iP21Z26j3UlMvxLniJO\n9wsGGRHdAwWkwsw6LxGuoeaI0sFpxGQrkK++UrYeL4h4vVPZdTUo05F+DUmxmb3v\nDLTHzSLjjABYYk8ykGItL8X90fRIUP/ESwmHNxMtuRwAhBvZRswUcgq9tWVAZU39\n1Ko9pgyEO9r5L7U15xa4yqXmU/JPHuSlewIDAQAB\n-----END RSA PUBLIC KEY-----\n"
         }
       }
     },
