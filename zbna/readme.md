@@ -85,8 +85,12 @@ Orgs - IP ranges
     - v6
         - fc00:0:1::/48 (core infra)
         - fddc::/16
+        - fc00:dead:beef::/48
 - asrael
     - v4
         - 172.18.0.0/16
     - v6
         - fc00:1eed:beef::/48
+- roll0r
+    - v6
+        - fc00:cafe:babe::/48
