@@ -34,6 +34,10 @@
       "as": "AS42070",
       "description": "delta_home",
       "vpn": {
+        "public": {
+          "v4": "er-12.benning-systeme.de",
+          "key": "-----BEGIN RSA PUBLIC KEY-----\nMIIBCgKCAQEAuX4O5a/0uteyvaR2A5ySUoY6AIf7/aALekIVHyXJr7sc5+fAdtJ7\n1gQrVHbI7DLjQsLfLezEwBZfF6mjPjaPx2WzhGQSifu1X+R5vN/A9M8rXGLPRxql\nJGxCoQJ+EJ9hRKg5L+AnjLWvCv/Mh2OM63AfrtsK07qflk/Q3+tp3eds3I5YXNiY\ndJdtFMqFObcYnMnaYAiniUyKnB5qPfilKxg0iTYkxALGC3zxGb7QqT1kxPOP3gTn\nB02fNLZuj95fV6ubDVPRSdOeUvvgmREQme04ubFwwbxoszOKQO13DovCculva+sf\n05Kv1O/po4/pq4kojNa5S5MS9g6Pup9WLQIDAQAB\n-----END RSA PUBLIC KEY-----"
+        },
         "transfer": {
           "v4": "10.200.0.43/24",
           "v6": "fc00::dc43/64"
@@ -46,12 +50,12 @@
       "vpn": {
         "transfer": {
           "v4": "10.200.0.44/24",
-          "v6": "fc00::dc44/64"
+          "v6": "fc00::dc44/64",
+          "key": "-----BEGIN RSA PUBLIC KEY-----\nMIIBCgKCAQEAuOcH10mfsDZxfN11Fhjg2e7SJT5aOjhI2wK3mdoswUHyB5wlyxmC\ndIC7WPYHsgVPRpEFVt9SjSz3dByPWof13/TRl78ov17ioPk3x/xV+3LTBZH/MWeZ\nD/nMqWSvn7O21I9B09Lcp7txtD5U7QX+zd3geFkBnXDY4iP21Z26j3UlMvxLniJO\n9wsGGRHdAwWkwsw6LxGuoeaI0sFpxGQrkK++UrYeL4h4vVPZdTUo05F+DUmxmb3v\nDLTHzSLjjABYYk8ykGItL8X90fRIUP/ESwmHNxMtuRwAhBvZRswUcgq9tWVAZU39\n1Ko9pgyEO9r5L7U15xa4yqXmU/JPHuSlewIDAQAB\n-----END RSA PUBLIC KEY-----\n"
         },
         "vpn": {
           "v4": "0.0.0.0/32",
-          "v6": "2a01:4f8:c012:d8ab::1",
-          "key": "-----BEGIN RSA PUBLIC KEY-----\nMIIBCgKCAQEAuOcH10mfsDZxfN11Fhjg2e7SJT5aOjhI2wK3mdoswUHyB5wlyxmC\ndIC7WPYHsgVPRpEFVt9SjSz3dByPWof13/TRl78ov17ioPk3x/xV+3LTBZH/MWeZ\nD/nMqWSvn7O21I9B09Lcp7txtD5U7QX+zd3geFkBnXDY4iP21Z26j3UlMvxLniJO\n9wsGGRHdAwWkwsw6LxGuoeaI0sFpxGQrkK++UrYeL4h4vVPZdTUo05F+DUmxmb3v\nDLTHzSLjjABYYk8ykGItL8X90fRIUP/ESwmHNxMtuRwAhBvZRswUcgq9tWVAZU39\n1Ko9pgyEO9r5L7U15xa4yqXmU/JPHuSlewIDAQAB\n-----END RSA PUBLIC KEY-----\n"
+          "v6": "2a01:4f8:c012:d8ab::1"
         }
       }
     },
