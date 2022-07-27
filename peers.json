@@ -1,0 +1,90 @@
+{
+  "peers": [
+    {
+      "as": "AS1000",
+      "description": "Asrael",
+      "vpn": {
+        "public": {
+          "v4": "159.69.148.48",
+          "v6": null,
+          "key": "-----BEGIN RSA PUBLIC KEY-----\nMIICCgKCAgEAzfdW5eyAnGikuK45Uu1SWJcOLsr1CtBOhAdWP31MLtzxHHq6YKlk\nqAPRtcIoKIE6fLURM/qsvg/72BgordV1ro/cCsHy9dIj8EFAF/0xU4c91QyNGdbR\nTLRepDuI+E6mIC6L7sUYJ+3IUNId5YaLDgDg0qwwUnv3vg7FmpWKMzBFdieIzNvQ\nmVueFYATv9e7Bo/+QqBhXfP/Zie39HthKVZxNfIuW6Ai+eDupcnQ2pzUIOdk5RlG\nKfv8BQzDejxpr4hoWb34sMRa2VfiHUf+2hRQjl55X/hkXLshfJjMoKEyY1i4x5Vr\nl6ZKtTuwdI6Zdn3+OiHbzH+3d/dl5OSwV/lBZ+dVg7jAQKRnW9JL65NzahQHAmMJ\n5Ae48nYpCoifuLIA01id5EdG7PRH1WDPw8HGaV5K2N8XH+srZWasjO3GCbwQkHyZ\nDWVVDUlx+PQEGUi0MYgyHY2cDg5CQ0Whv4A0iEV1kDANEwaMdU5cv6bq8gydxQ0V\nndxM+FSyDP8eLBIX6hIhJNxmlPJfJilXwBbPU6bM/Xi+ZhuCc0fjRSlktip8cZgJ\nNl6r/0zG7ZmMoC33pDZPpuZwGniRT1JcwWLHlAwbfc/VuznnNUYAaPS5b7G4R0wX\nuHluLkG7gFWGdertb62Id79z47sKSvPu1RKhVs8oIzTO8vC86At1nQkCAwEAAQ==\n-----END RSA PUBLIC KEY-----\n"
+        },
+        "transfer": {
+          "v4": "10.200.0.1/24",
+          "v6": "fc00::1eed:beef/64"
+        }
+      }
+    },
+    {
+      "as": "AS42069",
+      "description": "delta_vex",
+      "vpn": {
+        "public": {
+          "v4": "62.176.230.18",
+          "v6": "2a01:584:4:0:182d:ccff:febd:a5fd",
+          "key": "-----BEGIN RSA PUBLIC KEY-----\nMIIBCgKCAQEAxLP1YaLlLQTgKTmwh34XBcBVzfndXQQmTerP/jyI0789GWJdbCzl\nNduKmyjMkiYZIlhNCxT4ARW7nasaFvZolgT8uYXlX+RGrqIyt7hIwklLKasWYPMg\nRVUwEsTmj1HEXo2fFHIN55JWT0HMWN6I2SZlZsKtmOeRATnafN6+DdfFX4hd16sd\nPckmfIwwRDzbTZfLsDGtHWj3OWARv+sWpr3rfPjBk04ZYDBU7MWryUJZ2SBJcNql\nOLKbMA+MleAwQN3rTzL2naMBWxE6Sil4j2XgoHZ0WNc1UaQOYqoPNnYQqgnay+k2\ntMboNB9GbhlYkqcRyKNDdARadJ0wnuiUCwIDAQAB\n-----END RSA PUBLIC KEY-----\n"
+        },
+        "transfer": {
+          "v4": "10.200.0.42/24",
+          "v6": "fc00::dc42/64"
+        }
+      }
+    },
+    {
+      "as": "AS42070",
+      "description": "delta_home",
+      "vpn": {
+        "transfer": {
+          "v4": "10.200.0.43/24",
+          "v6": "fc00::dc43/64"
+        }
+      }
+    },
+    {
+      "as": "AS42071",
+      "description": "delta_zbn_fsn_01",
+      "vpn": {
+        "transfer": {
+          "v4": "10.200.0.44/24",
+          "v6": "fc00::dc44/64"
+        },
+        "vpn": {
+          "v4": "0.0.0.0/32",
+          "v6": "2a01:4f8:c012:d8ab::1",
+          "key": "-----BEGIN RSA PUBLIC KEY-----\nMIIBCgKCAQEAuOcH10mfsDZxfN11Fhjg2e7SJT5aOjhI2wK3mdoswUHyB5wlyxmC\ndIC7WPYHsgVPRpEFVt9SjSz3dByPWof13/TRl78ov17ioPk3x/xV+3LTBZH/MWeZ\nD/nMqWSvn7O21I9B09Lcp7txtD5U7QX+zd3geFkBnXDY4iP21Z26j3UlMvxLniJO\n9wsGGRHdAwWkwsw6LxGuoeaI0sFpxGQrkK++UrYeL4h4vVPZdTUo05F+DUmxmb3v\nDLTHzSLjjABYYk8ykGItL8X90fRIUP/ESwmHNxMtuRwAhBvZRswUcgq9tWVAZU39\n1Ko9pgyEO9r5L7U15xa4yqXmU/JPHuSlewIDAQAB\n-----END RSA PUBLIC KEY-----\n"
+        }
+      }
+    },
+    {
+      "as": "AS42072",
+      "description": "alpha_bi",
+      "notes": "It's not a good idea to add this peer, as these are dynamic ip's and are maybe old by the time you are viewing this file",
+      "vpn": {
+        "public": {
+          "v4": "178.202.211.94",
+          "v6": "2a02:908:4b11:d3c:20b:abff:fe78:2b51",
+          "key": "-----BEGIN RSA PUBLIC KEY-----\nMIIBCgKCAQEA5gmUwXN8YzGde06L65GK8p8ZDFmWopISBA04DGIF2oEFJCH19+8T\nhO+nvwjw1aCTcKwDR4dkNQRAeDKqMVNAsOB39Pt9BsYHgcR2nqSZEnRlqxkcp/6t\nO/+3ID/wBuXIjILq5Hun5mLThRNFIkv1nZION51c0E3aqbZQrMrYBcp8NW6f7/jB\n3D1y+D/zP+SHen7wJTxMYGIJgGvyXcFHmEO89TwleP/P1oAJlWBVF87cF2BOWViM\nrk4+9Ce9SqdtDB2uCLzpx6JxJ6GFbEVT/6wvZ2DGIdQKqPyrwebd6ScV9PzAjGSK\ndHEa5oES5+NYZFIXsyob2B0Qh9OSt6fSGwIDAQAB\n-----END RSA PUBLIC KEY-----\n"
+        },
+        "transfer": {
+          "v4": "10.200.0.60/24",
+          "v6": "fc00::ae00/64"
+        }
+      }
+    },
+    {
+      "as": "AS42073",
+      "description": "alpha_sv01",
+      "vpn": {
+        "public": {
+          "v4": "176.9.156.180",
+          "v6": "2a01:4f8:160:42a7::1",
+          "key": "-----BEGIN RSA PUBLIC KEY-----\nMIIBCgKCAQEAyvCedpwtb04TeXsRJGjbzFZv90vIJM97Ox8Fy+3uNHqMFL3OZHH6\nfzFtW3Sc0KzhzLeAWBBDl7dMygLZrKuYku9oFDcQuHK7gnq2EHj/E9E2cXWdmP0A\n50fU2DWBvvA3Y6K9Yn+5creRHPUJUkpr0jwzwk4P0/IDMWuYg8SsSIGwxCbPYcQ3\n2WxQj+67dY6KEoF4mozSorXHjt1RrC9iXkgne4FvKPoPnaVZAfHyQbqypKajTkiG\nbvWIm9V2G3K6qdqOeUQDspxpD22hZRPRqPQ5Yu4qOuihkDAe+8y3iL963nIf66mz\nMrxX4JlRlTTJxq/Z4U08HMX/4PgnMGjAAwIDAQAB\n-----END RSA PUBLIC KEY-----\n"
+        },
+        "transfer": {
+          "v4": "10.200.0.61/24",
+          "v6": "fc00::ae01/64"
+        }
+      }
+    }
+  ]
+}
