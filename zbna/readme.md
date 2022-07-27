@@ -22,8 +22,9 @@ ___
     - Routes
         - v6
             - fddc::/16
+            - fc00:0:1::/64
         - v4
-            - 10.2.0.0/16 - central infra
+            - 10.2.0.0/24 - central infra
             - 10.75.0.0/16 - vex
             - 10.76.0.0/24 - vex/in0
             - 10.76.1.0/24 - vex/in1
