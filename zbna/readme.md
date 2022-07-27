@@ -4,12 +4,16 @@ This is basicly the analog to the iana. This service will later get a website to
 ___
 ## AS List
 
-| Organisation | AS                | Notes |
-| ------------ |:----------------- | ----- |
-| delta        | AS42069 - AS42080 |       |
-| h2com        | AS1000            |       |
-| retro        | AS23420           |       |
-
+| Organisation | AS                | Notes               |
+| ------------ |:----------------- | ------------------- |
+| zbn          | AS0               | Core intrastructure |
+| delta        | AS42069 - AS42080 |                     |
+| h2com        | AS1000            |                     |
+| retro        | AS23420           |                     | 
+- AS0
+    - Intrastructure routes
+        - v4: 10.200.0.0/24
+        - v6: fc00::/64
 - AS42069
     - Peer
         - v4: 10.200.0.42/24
