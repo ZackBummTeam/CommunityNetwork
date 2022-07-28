@@ -24,7 +24,7 @@
           "v4": "",
           "v6": "",
           "port": 655,
-          "key": ""
+          "key": "\n-----BEGIN RSA PUBLIC KEY-----\nMIICCgKCAgEAx6ZVKmYFnBBdJHnMEte8Ehptbx0z458pbM83p78vHlkUshaIazVg\nwLukDq+QxW4Ts3brv75AG+McM5zjHrSvr6HO+cAFFZRacEps6JflpvJOwg90IkVe\nYjSb9xr8RdHRLJ/zqCMfSDICR4w5TswLQFUB1aPcJWAewUY5hgUhjzpdr5GgyATD\n4ZQ+61UKovscfJjrR/IuweHFmYahHPb0+9JVt/3BxEjqNco6rviAl+EFI7poaLoX\nF398XTFzXHhiAGSJjEhAu498JKwnALiAcScquNyl0XTjZUPgiuNSJ50tjz0eY0vN\ne+O2HumbTDekDAiaUKvuVCh7AmQpSWYEmYTOhzHdfssqw2YQ8Plp+7ngX4vay17f\nXAzuZ/x5VtY69Fqp4pUJjXZ/qCRpsDDQ/A6JgGpXXyCBVPk+Lc9Rvf+w1bg34uhu\n0MZJnYKMdNrjw0PORNyrF0AfUOce1fy6TuYKVRLbuCHd/NERXrVq/7m0HCdzfrwr\nlqpigkKY+esONtrNGMz0g2duZlKeTq7e6hE3buixylNfKWkNe1nkiNrUVAIVHrui\nQyBusIVKwV118WBVebKuyeFqtVNGqmnfhZ0VhP1a9PgNgxgdU7A3B6a3tlpRQ9Df\nWtdX/ZSYU45yu2I07W+d+oaqHSZWopl5D74xtoVTg1YbjSthKCasVV8CAwEAAQ==\n-----END RSA PUBLIC KEY-----"
         },
         "transfer": {
           "v4": "10.200.0.2/24",
