@@ -18,7 +18,7 @@
     },
      {
       "as": "AS1001",
-      "description": "zbngate.h2com.eu",
+      "description": "zbngate",
       "vpn": {
         "public": {
           "v4": "",
