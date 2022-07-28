@@ -2,7 +2,7 @@
   "peers": [
     {
       "as": "AS1000",
-      "description": "Asrael",
+      "description": "bzn-asrael-1.h2com.eu",
       "vpn": {
         "public": {
           "v4": "bzn-asrael-1.h2com.eu",
@@ -13,6 +13,22 @@
         "transfer": {
           "v4": "10.200.0.1/24",
           "v6": "fc00::1eed:beef/64"
+        }
+      }
+    },
+     {
+      "as": "AS1001",
+      "description": "zbngate.h2com.eu",
+      "vpn": {
+        "public": {
+          "v4": "",
+          "v6": "",
+          "port": 655,
+          "key": ""
+        },
+        "transfer": {
+          "v4": "10.200.0.2/24",
+          "v6": "fc00::1eed:beat/64"
         }
       }
     },
