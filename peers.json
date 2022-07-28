@@ -5,8 +5,8 @@
       "description": "zbngatehelsinki",
       "vpn": {
         "public": {
-          "v4": "bzn-asrael-1.h2com.eu",
-          "v6": "bzn-asrael-1.h2com.eu",
+          "v4": "zbngatehelsinki.h2com.eu",
+          "v6": "zbngatehelsinki.h2com.eu",
           "port": 655,
           "key": ""
         },
