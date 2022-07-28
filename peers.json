@@ -8,7 +8,7 @@
           "v4": "zbngatehelsinki.h2com.eu",
           "v6": "zbngatehelsinki.h2com.eu",
           "port": 655,
-          "key": ""
+          "key": "\n-----BEGIN RSA PUBLIC KEY-----\nMIICCgKCAgEAoxLGHF4YaTwdFg7dKeD9xyKj60zXJoaytNeKKxEEUcKdym5SoCdW\nP93nlP20vI9+3+0MJfilN/yw7gpgyuuMoXP3GIGC/qVkhezMudkUBjDOUUPQeg8I\n3h6tpVS3ZS797/NiMU0/IEdh/swwyKulGVsvnwqrfY41RI5eialcaigJwEo6pdfd\nx0Hb9tEUJ7VUUnstMvHx7Z0MX1emrPnd8WEPYlCswQAipSB7p7kLs3bg/HQCXOme\nyL9EbxH9HCC7D+m5LXmT3Wpccgsil6H69lR/iLyn9r5rsEvCoEZwGyYIxvWk7Ya2\n5xNs/q4Wep4mKeqpoCEe6erzGI/YI4SpXA6Nu534TvMiJhzVJbeN2mWpFThLF3ex\n6lCym/5lmD4pYuCzQjlB5IULO4WLR5giwt8EJ6/89CevXSbaosUkvaAJ2+VqpuGk\nuT2rmakETzE4cRe6zt2Bapkt5gI9g0AlAOGRpVq+2Hrmce59DVSLx8JHyW4yimFn\nHWdiLkbYqpyzMgRCSHDSMh0KmuzZVBfrGSEnBkHzKS+NugMuw4Pcnokxc84WghkE\nJO8ZOufX2YYdaGHjfszRjZg/sFLl3WhymL1ILdJJtKbKZWcfEp4jrszRKE5M5AjA\nMfdBe94Ux1UOXqnPxcaVjRjUKw1hrfqj92ZUPqDWUW36/9LM1AD1rOcCAwEAAQ==\n-----END RSA PUBLIC KEY-----"
         },
         "transfer": {
           "v4": "10.200.0.1/24",
