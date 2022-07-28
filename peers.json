@@ -16,7 +16,7 @@
         }
       }
     },
-     {
+    {
       "as": "AS1001",
       "description": "zbngate",
       "vpn": {
