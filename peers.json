@@ -2,7 +2,7 @@
   "peers": [
     {
       "as": "AS1000",
-      "description": "zbngate_public",
+      "description": "zbngatehelsinki",
       "vpn": {
         "public": {
           "v4": "bzn-asrael-1.h2com.eu",
