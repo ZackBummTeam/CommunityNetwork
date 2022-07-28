@@ -8,9 +8,11 @@ ___
 | ------------ |:----------------- | ------------------- |
 | zbn          | AS0               | Core intrastructure |
 | delta        | AS42069 - AS42080 |                     |
-| h2com        | AS1000            |                     |
+| h2com        | AS1000-AS1001     |                     |
 | roll0r       | AS31337           |                     |
 | retro        | AS23420           |                     | 
+| 0fr0         | AS2000            |                     | 
+
 - AS0
     - Intrastructure routes
         - v4: 10.200.0.0/24
@@ -65,6 +67,20 @@ ___
     - Routes
         - v4
             - 172.18.10.0/24
+
+- AS1001
+    - Peer
+        - v4: 10.200.0.2/24
+        - v6: fc00::1eed:beat/64
+    - Routes
+        - v4
+            - 172.18.10.0/24
+
+- AS2000
+    - Peer
+        - v4: 10.200.0.10/24
+        - v6: fc00::3066:7230/64
+
 ___
 Orgs - IP ranges
 - zbna
