@@ -6,14 +6,14 @@ ___
 
 | Organisation | AS                | Notes               |
 | ------------ |:----------------- | ------------------- |
-| zbn          | AS0               | Core intrastructure |
+| zbn          | AS1               | Core intrastructure |
 | delta        | AS42069 - AS42080 |                     |
 | h2com        | AS1000-AS1001     |                     |
 | roll0r       | AS31337           |                     |
 | retro        | AS23420           |                     | 
 | 0fr0         | AS2000            |                     | 
 
-- AS0
+- AS1
     - Intrastructure routes
         - v4: 10.200.0.0/24
         - v6: fc00::/64
