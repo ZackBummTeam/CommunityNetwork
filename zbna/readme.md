@@ -104,9 +104,9 @@ Orgs - IP ranges
         - 10.76.0.0/24
         - 10.76.1.0/24
     - v6
-        - fc00:0:1::/48 (core infra)
+        - fc00:0:1::/32 (core infra)
         - fddc::/16
-        - fc00:dead:beef::/48
+        - fc00:dead:beef::/32
 - asrael
     - v4
         - 172.18.0.0/16
