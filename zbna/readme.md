@@ -107,7 +107,7 @@ Orgs - IP ranges
     - v6
         - fc00:0:1::/32 (core infra)
         - fddc::/16
-        - fc00:dead:beef::/32
+        - fc00:dead:beef::/48
 - asrael
     - v4
         - 172.18.0.0/16
